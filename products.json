@@ -1,0 +1,563 @@
+[
+  {
+    "category": "Ceramic Ball",
+    "applications": [
+      "Catalyst support and covering material",
+      "Petrochemical towers and reactors",
+      "Gas and liquid distribution beds"
+    ],
+    "features": [
+      "High crushing strength",
+      "Good thermal and chemical stability",
+      "Improved flow paths through through-holes",
+      "Custom sizes available"
+    ],
+    "specs": [
+      [
+        "Typical size",
+        "Ø8-Ø75 mm"
+      ],
+      [
+        "Material",
+        "Alumina ceramic"
+      ],
+      [
+        "Package",
+        "25 kg bag / jumbo bag / wooden crate"
+      ],
+      [
+        "MOQ",
+        "Negotiable, usually 1 ton"
+      ]
+    ],
+    "slug": "perforated-ceramic-ball",
+    "image": "assets/img/pages/img-000.jpg",
+    "name": "Perforated Ceramic Ball",
+    "cn": "开孔瓷球",
+    "summary": "Perforated ceramic balls combine catalyst support strength with improved void ratio and flow distribution for packed beds."
+  },
+  {
+    "category": "Ceramic Ball",
+    "applications": [
+      "Grinding and milling",
+      "Catalyst support",
+      "High-temperature industrial systems"
+    ],
+    "features": [
+      "Multiple Al2O3 grade options",
+      "High wear resistance",
+      "High mechanical strength",
+      "Low impurity level"
+    ],
+    "specs": [
+      [
+        "Al2O3 options",
+        "90% / 92% / 95% / 97% / 99.5%"
+      ],
+      [
+        "Typical size",
+        "Ø3-Ø75 mm"
+      ],
+      [
+        "Max service temperature",
+        "Up to approx. 1600°C depending on grade"
+      ],
+      [
+        "Package",
+        "25 kg bag / drum / pallet"
+      ]
+    ],
+    "slug": "high-alumina-ceramic-ball",
+    "image": "assets/img/pages/img-001.jpg",
+    "name": "High Alumina Ceramic Ball",
+    "cn": "高铝瓷球",
+    "summary": "High alumina ceramic balls are used as grinding media and support media where high hardness, wear resistance and thermal stability are required."
+  },
+  {
+    "category": "Support Media",
+    "applications": [
+      "Catalyst bed protection",
+      "Large packed towers",
+      "Desulfurization and petrochemical units"
+    ],
+    "features": [
+      "Large void fraction",
+      "Good permeability",
+      "High strength support",
+      "Custom dimensions available"
+    ],
+    "specs": [
+      [
+        "Material",
+        "Ceramic / alumina ceramic"
+      ],
+      [
+        "Shape",
+        "Nest-type structured support"
+      ],
+      [
+        "Service",
+        "Support and protection layer"
+      ],
+      [
+        "Package",
+        "Wooden crate / pallet"
+      ]
+    ],
+    "slug": "nest-support-protector",
+    "image": "assets/img/pages/img-002.jpg",
+    "name": "Nest Support Protector",
+    "cn": "鸟巢支撑保护剂",
+    "summary": "Nest support protectors are ceramic support elements for large towers and catalyst beds, improving distribution and bed protection."
+  },
+  {
+    "category": "Ceramic Packing",
+    "applications": [
+      "Absorption towers",
+      "Scrubbers",
+      "Rectification and stripping towers",
+      "Chemical separation systems"
+    ],
+    "features": [
+      "Excellent acid resistance except hydrofluoric acid in many services",
+      "High temperature resistance",
+      "Long service life",
+      "Multiple shapes and sizes"
+    ],
+    "specs": [
+      [
+        "Material",
+        "Chemical ceramic"
+      ],
+      [
+        "Shapes",
+        "Pall ring, Raschig ring, saddle ring, cascade mini ring, cross-partition ring"
+      ],
+      [
+        "Standard reference",
+        "GB/T 18749-2002"
+      ],
+      [
+        "Package",
+        "Bulk bag / wooden crate"
+      ]
+    ],
+    "slug": "ceramic-packing",
+    "image": "assets/img/pages/img-003.jpg",
+    "name": "Ceramic Packing Overview",
+    "cn": "陶瓷填料",
+    "summary": "Ceramic random packing provides corrosion resistance for acid, alkali and high-temperature chemical separation applications."
+  },
+  {
+    "category": "Ceramic Packing",
+    "applications": [
+      "Chemical absorption towers",
+      "Drying and stripping towers",
+      "Acid-resistant packed columns"
+    ],
+    "features": [
+      "Low pressure drop",
+      "High mass-transfer efficiency",
+      "Good liquid distribution",
+      "Strong acid and heat resistance"
+    ],
+    "specs": [
+      [
+        "Typical size",
+        "25 / 38 / 50 / 80 mm"
+      ],
+      [
+        "Bulk density",
+        "Approx. 730-900 kg/m³ depending on size"
+      ],
+      [
+        "Material",
+        "Acid-resistant ceramic"
+      ],
+      [
+        "Package",
+        "Wooden crate / jumbo bag"
+      ]
+    ],
+    "slug": "ceramic-pall-ring",
+    "image": "assets/img/pages/img-004.jpg",
+    "name": "Ceramic Pall Ring",
+    "cn": "鲍尔环",
+    "summary": "Ceramic Pall Rings are random tower packing with windows and internal tongues, offering higher capacity and lower pressure drop than traditional Raschig rings."
+  },
+  {
+    "category": "Ceramic Packing",
+    "applications": [
+      "Absorption columns",
+      "Stripping towers",
+      "Corrosive chemical service"
+    ],
+    "features": [
+      "Simple and robust design",
+      "Excellent corrosion resistance",
+      "Economical option",
+      "Wide range of diameters"
+    ],
+    "specs": [
+      [
+        "Typical size",
+        "6 / 10 / 15 / 16 / 25 / 40 / 50 / 80 / 100 / 150 mm"
+      ],
+      [
+        "Material",
+        "Acid-resistant ceramic"
+      ],
+      [
+        "Use",
+        "Random tower packing"
+      ],
+      [
+        "Package",
+        "Wooden crate / bag"
+      ]
+    ],
+    "slug": "ceramic-raschig-ring",
+    "image": "assets/img/pages/img-004.jpg",
+    "name": "Ceramic Raschig Ring",
+    "cn": "拉西环",
+    "summary": "Ceramic Raschig Rings are classic random packing for corrosive environments and general-purpose mass transfer operations."
+  },
+  {
+    "category": "Ceramic Packing",
+    "applications": [
+      "Absorption and desorption towers",
+      "Scrubbers",
+      "Chemical separation"
+    ],
+    "features": [
+      "Good liquid distribution",
+      "Lower pressure drop than traditional rings",
+      "High heat resistance",
+      "Corrosion resistant"
+    ],
+    "specs": [
+      [
+        "Typical size",
+        "16 / 25 / 38 / 50 / 76 mm"
+      ],
+      [
+        "Shape",
+        "Saddle type"
+      ],
+      [
+        "Material",
+        "Ceramic"
+      ],
+      [
+        "Package",
+        "Wooden crate"
+      ]
+    ],
+    "slug": "ceramic-rectangular-saddle-ring",
+    "image": "assets/img/pages/img-005.jpg",
+    "name": "Ceramic Intalox Saddle Ring",
+    "cn": "矩鞍环",
+    "summary": "Ceramic saddle packing provides better void ratio and pressure drop performance than ring-type packing in many tower applications."
+  },
+  {
+    "category": "Ceramic Packing",
+    "applications": [
+      "Chemical towers",
+      "Gas-liquid contact systems",
+      "Absorption and stripping"
+    ],
+    "features": [
+      "Improved mass transfer",
+      "Good mechanical strength",
+      "High void ratio",
+      "Acid resistant"
+    ],
+    "specs": [
+      [
+        "Typical size",
+        "25 / 38 / 50 / 76 mm"
+      ],
+      [
+        "Shape",
+        "Improved saddle"
+      ],
+      [
+        "Material",
+        "Ceramic"
+      ],
+      [
+        "Package",
+        "Wooden crate / pallet"
+      ]
+    ],
+    "slug": "ceramic-super-saddle-ring",
+    "image": "assets/img/pages/img-005.jpg",
+    "name": "Ceramic Super Saddle Ring",
+    "cn": "异鞍环",
+    "summary": "Improved saddle packing with enhanced contact surface and flow paths for high-efficiency chemical packing applications."
+  },
+  {
+    "category": "Ceramic Packing",
+    "applications": [
+      "Packed towers",
+      "Absorption systems",
+      "Corrosive media service"
+    ],
+    "features": [
+      "Lower pressure drop",
+      "High throughput",
+      "Improved liquid distribution",
+      "High acid resistance"
+    ],
+    "specs": [
+      [
+        "Typical size",
+        "25 / 50 / 76 mm"
+      ],
+      [
+        "Material",
+        "Ceramic"
+      ],
+      [
+        "Use",
+        "Random tower packing"
+      ],
+      [
+        "Package",
+        "Wooden crate"
+      ]
+    ],
+    "slug": "ceramic-cascade-mini-ring",
+    "image": "assets/img/pages/img-006.jpg",
+    "name": "Ceramic Cascade Mini Ring",
+    "cn": "阶梯环",
+    "summary": "Ceramic cascade mini rings improve gas-liquid contact with a lower height-to-diameter ratio and lower pressure drop."
+  },
+  {
+    "category": "Ceramic Packing",
+    "applications": [
+      "Support layers",
+      "Tower packing beds",
+      "Chemical reactors"
+    ],
+    "features": [
+      "High strength structure",
+      "Good distribution performance",
+      "Acid resistant ceramic",
+      "Suitable for larger sizes"
+    ],
+    "specs": [
+      [
+        "Typical size",
+        "50 / 80 / 100 / 120 / 150 mm"
+      ],
+      [
+        "Structure",
+        "Cross partition"
+      ],
+      [
+        "Material",
+        "Ceramic"
+      ],
+      [
+        "Package",
+        "Wooden crate"
+      ]
+    ],
+    "slug": "ceramic-cross-partition-ring",
+    "image": "assets/img/pages/img-006.jpg",
+    "name": "Ceramic Cross Partition Ring",
+    "cn": "十字隔板环",
+    "summary": "Ceramic cross partition rings are strong packing elements with internal cross partitions for support, distribution and tower packing use."
+  },
+  {
+    "category": "Structured Packing",
+    "applications": [
+      "Fine chemical separation",
+      "Acid gas absorption",
+      "Vacuum distillation",
+      "High-efficiency rectification"
+    ],
+    "features": [
+      "High theoretical plate efficiency",
+      "Low pressure drop",
+      "Large specific surface area",
+      "Good corrosion resistance"
+    ],
+    "specs": [
+      [
+        "Common models",
+        "100X, 125X, 250Y, 350Y, 450Y, 500Y, 700Y"
+      ],
+      [
+        "Material",
+        "Ceramic structured sheet"
+      ],
+      [
+        "Use",
+        "Structured packing"
+      ],
+      [
+        "Package",
+        "Wooden crate"
+      ]
+    ],
+    "slug": "ceramic-corrugated-structured-packing",
+    "image": "assets/img/pages/img-007.jpg",
+    "name": "Ceramic Corrugated Structured Packing",
+    "cn": "波纹规整填料",
+    "summary": "Ceramic corrugated structured packing offers high separation efficiency and low pressure drop for corrosive and high-temperature applications."
+  },
+  {
+    "category": "Acid Resistant Ceramic",
+    "applications": [
+      "Chemical plant linings",
+      "Acid tanks and trenches",
+      "Corrosion-resistant floor and wall systems"
+    ],
+    "features": [
+      "Excellent acid resistance",
+      "High compressive strength",
+      "Wear resistance",
+      "Multiple shapes and sizes"
+    ],
+    "specs": [
+      [
+        "Products",
+        "Brick / plate / pipe / special shapes"
+      ],
+      [
+        "Material",
+        "Acid-resistant ceramic"
+      ],
+      [
+        "Use",
+        "Anti-corrosion lining"
+      ],
+      [
+        "Package",
+        "Pallet / wooden crate"
+      ]
+    ],
+    "slug": "acid-resistant-brick-plate-pipe",
+    "image": "assets/img/pages/img-008.jpg",
+    "name": "Acid Resistant Brick, Plate & Pipe",
+    "cn": "耐酸砖、板、管",
+    "summary": "Acid resistant ceramic bricks, plates and pipes are lining materials for corrosive industrial environments."
+  },
+  {
+    "category": "Honeycomb Ceramic",
+    "applications": [
+      "RTO/RCO systems",
+      "Heat storage media",
+      "Catalyst carrier",
+      "Exhaust gas treatment"
+    ],
+    "features": [
+      "Large surface area",
+      "Low thermal expansion",
+      "Good thermal shock resistance",
+      "Low pressure drop"
+    ],
+    "specs": [
+      [
+        "Cell density",
+        "Customizable"
+      ],
+      [
+        "Material",
+        "Cordierite / alumina ceramic options"
+      ],
+      [
+        "Shape",
+        "Square, round or custom block"
+      ],
+      [
+        "Package",
+        "Carton / wooden crate"
+      ]
+    ],
+    "slug": "honeycomb-ceramic",
+    "image": "assets/img/pages/img-009.jpg",
+    "name": "Honeycomb Ceramic",
+    "cn": "蜂窝陶瓷",
+    "summary": "Honeycomb ceramic provides large geometric surface area, low pressure drop and stable thermal performance for heat exchange and catalytic support applications."
+  },
+  {
+    "category": "Adsorbent",
+    "applications": [
+      "Compressed air drying",
+      "Gas drying and purification",
+      "Fluoride removal from water",
+      "Petrochemical adsorption systems"
+    ],
+    "features": [
+      "High surface area",
+      "High adsorption capacity",
+      "Regenerable adsorbent",
+      "Available in multiple bead sizes"
+    ],
+    "specs": [
+      [
+        "Typical types",
+        "KA401 / KA402 / KA403 / KA404 / KA405 / KA406"
+      ],
+      [
+        "Al2O3 content",
+        "Approx. 90%+ depending on grade"
+      ],
+      [
+        "Shape",
+        "Sphere / pellet"
+      ],
+      [
+        "Package",
+        "25 kg bag / drum / jumbo bag"
+      ]
+    ],
+    "slug": "activated-alumina",
+    "image": "assets/img/pages/img-010.jpg",
+    "name": "Activated Alumina",
+    "cn": "活性氧化铝",
+    "summary": "Activated alumina is a porous adsorbent with high surface area, used for drying, purification and fluoride removal applications."
+  },
+  {
+    "category": "Adsorbent",
+    "applications": [
+      "Natural gas drying",
+      "Air separation",
+      "Oxygen concentrators",
+      "Solvent and refrigerant drying",
+      "Petrochemical purification"
+    ],
+    "features": [
+      "Selective adsorption",
+      "High drying capacity",
+      "Low residual moisture",
+      "Available in 3A / 4A / 5A / 13X"
+    ],
+    "specs": [
+      [
+        "Main types",
+        "3A / 4A / 5A / 13X / 13X-AS / Cu-13X"
+      ],
+      [
+        "Shape",
+        "Bead / pellet"
+      ],
+      [
+        "Typical package",
+        "25 kg carton or drum; 120-150 kg steel drum; jumbo bag"
+      ],
+      [
+        "Storage",
+        "Keep dry and sealed before use"
+      ]
+    ],
+    "slug": "molecular-sieve",
+    "image": "assets/img/pages/img-012.jpg",
+    "name": "Molecular Sieve",
+    "cn": "分子筛",
+    "summary": "Molecular sieves are crystalline aluminosilicate adsorbents with uniform pores for selective adsorption and drying."
+  }
+]
