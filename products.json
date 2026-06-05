@@ -31,9 +31,8 @@
       ]
     ],
     "slug": "perforated-ceramic-ball",
-    "image": "assets/img/pages/img-000.jpg",
-    "name": "Perforated Ceramic Ball",
-    "cn": "开孔瓷球",
+    "image": "assets/img/products/perforated-ceramic-ball.jpg",
+    "name": "Perforated Ceramic Ball",
     "summary": "Perforated ceramic balls combine catalyst support strength with improved void ratio and flow distribution for packed beds."
   },
   {
@@ -68,9 +67,8 @@
       ]
     ],
     "slug": "high-alumina-ceramic-ball",
-    "image": "assets/img/pages/img-001.jpg",
-    "name": "High Alumina Ceramic Ball",
-    "cn": "高铝瓷球",
+    "image": "assets/img/products/high-alumina-ceramic-ball.jpg",
+    "name": "High Alumina Ceramic Ball",
     "summary": "High alumina ceramic balls are used as grinding media and support media where high hardness, wear resistance and thermal stability are required."
   },
   {
@@ -105,9 +103,8 @@
       ]
     ],
     "slug": "nest-support-protector",
-    "image": "assets/img/pages/img-002.jpg",
-    "name": "Nest Support Protector",
-    "cn": "鸟巢支撑保护剂",
+    "image": "assets/img/products/nest-support-protector.jpg",
+    "name": "Nest Support Protector",
     "summary": "Nest support protectors are ceramic support elements for large towers and catalyst beds, improving distribution and bed protection."
   },
   {
@@ -143,9 +140,8 @@
       ]
     ],
     "slug": "ceramic-packing",
-    "image": "assets/img/pages/img-003.jpg",
-    "name": "Ceramic Packing Overview",
-    "cn": "陶瓷填料",
+    "image": "assets/img/products/ceramic-packing.jpg",
+    "name": "Ceramic Packing Overview",
     "summary": "Ceramic random packing provides corrosion resistance for acid, alkali and high-temperature chemical separation applications."
   },
   {
@@ -180,9 +176,8 @@
       ]
     ],
     "slug": "ceramic-pall-ring",
-    "image": "assets/img/pages/img-004.jpg",
-    "name": "Ceramic Pall Ring",
-    "cn": "鲍尔环",
+    "image": "assets/img/products/ceramic-pall-ring.jpg",
+    "name": "Ceramic Pall Ring",
     "summary": "Ceramic Pall Rings are random tower packing with windows and internal tongues, offering higher capacity and lower pressure drop than traditional Raschig rings."
   },
   {
@@ -217,9 +212,8 @@
       ]
     ],
     "slug": "ceramic-raschig-ring",
-    "image": "assets/img/pages/img-004.jpg",
-    "name": "Ceramic Raschig Ring",
-    "cn": "拉西环",
+    "image": "assets/img/products/ceramic-raschig-ring.jpg",
+    "name": "Ceramic Raschig Ring",
     "summary": "Ceramic Raschig Rings are classic random packing for corrosive environments and general-purpose mass transfer operations."
   },
   {
@@ -254,9 +248,8 @@
       ]
     ],
     "slug": "ceramic-rectangular-saddle-ring",
-    "image": "assets/img/pages/img-005.jpg",
-    "name": "Ceramic Intalox Saddle Ring",
-    "cn": "矩鞍环",
+    "image": "assets/img/products/ceramic-intalox-saddle-ring.jpg",
+    "name": "Ceramic Intalox Saddle Ring",
     "summary": "Ceramic saddle packing provides better void ratio and pressure drop performance than ring-type packing in many tower applications."
   },
   {
@@ -291,9 +284,8 @@
       ]
     ],
     "slug": "ceramic-super-saddle-ring",
-    "image": "assets/img/pages/img-005.jpg",
-    "name": "Ceramic Super Saddle Ring",
-    "cn": "异鞍环",
+    "image": "assets/img/products/ceramic-super-saddle-ring.jpg",
+    "name": "Ceramic Super Saddle Ring",
     "summary": "Improved saddle packing with enhanced contact surface and flow paths for high-efficiency chemical packing applications."
   },
   {
@@ -328,9 +320,8 @@
       ]
     ],
     "slug": "ceramic-cascade-mini-ring",
-    "image": "assets/img/pages/img-006.jpg",
-    "name": "Ceramic Cascade Mini Ring",
-    "cn": "阶梯环",
+    "image": "assets/img/products/ceramic-cascade-mini-ring.jpg",
+    "name": "Ceramic Cascade Mini Ring",
     "summary": "Ceramic cascade mini rings improve gas-liquid contact with a lower height-to-diameter ratio and lower pressure drop."
   },
   {
@@ -365,9 +356,8 @@
       ]
     ],
     "slug": "ceramic-cross-partition-ring",
-    "image": "assets/img/pages/img-006.jpg",
-    "name": "Ceramic Cross Partition Ring",
-    "cn": "十字隔板环",
+    "image": "assets/img/products/ceramic-cross-partition-ring.jpg",
+    "name": "Ceramic Cross Partition Ring",
     "summary": "Ceramic cross partition rings are strong packing elements with internal cross partitions for support, distribution and tower packing use."
   },
   {
@@ -403,9 +393,8 @@
       ]
     ],
     "slug": "ceramic-corrugated-structured-packing",
-    "image": "assets/img/pages/img-007.jpg",
-    "name": "Ceramic Corrugated Structured Packing",
-    "cn": "波纹规整填料",
+    "image": "assets/img/products/ceramic-corrugated-structured-packing.jpg",
+    "name": "Ceramic Corrugated Structured Packing",
     "summary": "Ceramic corrugated structured packing offers high separation efficiency and low pressure drop for corrosive and high-temperature applications."
   },
   {
@@ -440,9 +429,8 @@
       ]
     ],
     "slug": "acid-resistant-brick-plate-pipe",
-    "image": "assets/img/pages/img-008.jpg",
-    "name": "Acid Resistant Brick, Plate & Pipe",
-    "cn": "耐酸砖、板、管",
+    "image": "assets/img/products/acid-resistant-brick-plate-pipe.jpg",
+    "name": "Acid Resistant Brick, Plate & Pipe",
     "summary": "Acid resistant ceramic bricks, plates and pipes are lining materials for corrosive industrial environments."
   },
   {
@@ -478,9 +466,8 @@
       ]
     ],
     "slug": "honeycomb-ceramic",
-    "image": "assets/img/pages/img-009.jpg",
-    "name": "Honeycomb Ceramic",
-    "cn": "蜂窝陶瓷",
+    "image": "assets/img/products/honeycomb-ceramic.jpg",
+    "name": "Honeycomb Ceramic",
     "summary": "Honeycomb ceramic provides large geometric surface area, low pressure drop and stable thermal performance for heat exchange and catalytic support applications."
   },
   {
@@ -516,9 +503,8 @@
       ]
     ],
     "slug": "activated-alumina",
-    "image": "assets/img/pages/img-010.jpg",
-    "name": "Activated Alumina",
-    "cn": "活性氧化铝",
+    "image": "assets/img/products/activated-alumina.jpg",
+    "name": "Activated Alumina",
     "summary": "Activated alumina is a porous adsorbent with high surface area, used for drying, purification and fluoride removal applications."
   },
   {
@@ -555,9 +541,8 @@
       ]
     ],
     "slug": "molecular-sieve",
-    "image": "assets/img/pages/img-012.jpg",
-    "name": "Molecular Sieve",
-    "cn": "分子筛",
+    "image": "assets/img/products/molecular-sieve.jpg",
+    "name": "Molecular Sieve",
     "summary": "Molecular sieves are crystalline aluminosilicate adsorbents with uniform pores for selective adsorption and drying."
   }
 ]
